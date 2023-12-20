@@ -1,6 +1,6 @@
 module github.com/frog-in-fog/protos
 
-go 1.19
+go 1.21.1
 
 require (
 	google.golang.org/grpc v1.60.1
